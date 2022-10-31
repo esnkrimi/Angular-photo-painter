@@ -1,0 +1,20 @@
+{
+  "name": "esn-photo-painter",
+  "version": "0.0.1",
+  "author": "Ehsan Karimi <esnkrimi@gmail.com>",
+  "keywords": [
+    "konvajs",
+    "konva",
+    "drawing",
+    "signature",
+    "draw an image",
+    "painting"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
